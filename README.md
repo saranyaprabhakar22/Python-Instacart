@@ -17,7 +17,7 @@ Analysis has been conducted using Jupyter Notebooks and the Anaconda libraries m
 
 # Folders
 1. Analysis - Contains the Visualizations for the Final Report.
-2. Data - Contains the Original and the Prepared data. All the original data is included in the origibal folder and the cleaned data after data quality and consistency checks have been included in the prepared folder for analysis.
+2. Data - Contains the Original and the Prepared data. All the original data is included in the origibal folder and the cleaned data after data quality and consistency checks have been included in the prepared folder for analysis. PLEASE NOTE: This folder has not been included in order to look for the file size constraints.
 3. Project Management - Contains the Project Brief.
 4. Scripts - Contains all the Python coding done using Jupyter Notebooks for the entire analysis.
 5. Sent to Client - Contains the Final Excel Report
